@@ -4,6 +4,7 @@
 - 📫 Reach out to me by email: justinhibb97@gmail.com, phone: (508)-641-6288, or linkedin: https://www.linkedin.com/in/justin-hibbard/
 
 - ✨ Projects:
+- https://github.com/justinhibb97/my-travel-journal/blob/main/README.md
 - https://github.com/justinhibb97/react-airbnb-online-experiences
 - https://github.com/justinhibb97/digital-business-card
 - https://github.com/justinhibb97/react-course-project1
