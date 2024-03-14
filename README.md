@@ -28,7 +28,7 @@ developer. I'm interested in Full Stack Development & Automation and currently f
 
 ## HTML & CSS
 - [Styling](https://github.com/justinhibb97/CSS-practice)
-- [Whack-a-Mole Game](https://github.com/basic-mole-game)
+- [Whack-a-Mole Game](https://github.com/justinhibb97/basic-mole-game)
 - [First Site](https://github.com/justinhibb97/aa-first-site)
 - [Forms](https://github.com/justinhibb97/building-html-forms)
 
