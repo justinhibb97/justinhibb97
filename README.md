@@ -11,6 +11,9 @@ developer. I'm interested in Full Stack Development & Automation and currently f
 - justinhibb97@gmail.com
 - https://linkedin.com/in/justin-hibbard
 
+## MERN Projects
+- [Real Estate App](https://github.com/justinhibb97/mern-estate)
+
 ## React Projects
 - [My Travel Journal](https://github.com/justinhibb97/my-travel-journal)
 - [AirBnb Online Experiences](https://github.com/justinhibb97/react-airbnb-online-experiences)
