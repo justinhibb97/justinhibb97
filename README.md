@@ -3,8 +3,7 @@ justinhibb97/justinhibb97 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ## Introduction
-Hello, I'm Justin Hibbard. A detaill-oriented automation engineer skilled at evaluating programs, identifying causes and locating root issues. Offers 5+ years in the tech industry while seeking opportunity to expand skills and take on new challenges as a
-developer. I'm interested in Full Stack Development & Automation and currently focused learning React.
+Hello, I'm Justin Hibbard. A detaill-oriented software developer in test skilled at evaluating programs, identifying causes and locating root issues. Offers 5+ years in the tech industry while seeking opportunity to expand skills and take on new challenges as a developer. I'm interested in Full Stack Development & Automation and currently focused learning React.
 
 ## Contact Info
 - (508)-641-6288
