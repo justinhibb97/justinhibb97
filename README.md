@@ -10,7 +10,7 @@ Hello, I'm Justin Hibbard. A detail-oriented software developer in test skilled 
 - justinhibb97@gmail.com
 - https://linkedin.com/in/justin-hibbard
 
-## MERN Projects
+## MERN with Automation Project
 - [Real Estate App](https://github.com/justinhibb97/mern-estate)
 
 ## React Projects
